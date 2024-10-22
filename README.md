@@ -16,8 +16,8 @@ To get started, you need to have Node.js installed on your machine.
 <h3>Clone the repository:</h3>
 
 ```bash
-git clone https://github.com/AmritRMagar/Three-js.git
-cd Three-js
+git clone https://github.com/AmritRMagar/3D-Car.git
+cd 3D-Car
 ```
 <h3>Install dependencies:<h3>
 
